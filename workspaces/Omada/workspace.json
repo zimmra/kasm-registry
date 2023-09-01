@@ -1,0 +1,32 @@
+{
+  "description": "Omada SDN Controller",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "omada.png",
+  "name": "kasmweb/brave:1.14.0",
+  "run_config": {
+    "hostname": "kasm",
+    "environment": {
+      "LAUNCH_URL": "--app=https://omada.redacted.io"
+    }
+  },
+  "exec_config": {
+    "go": {
+      "cmd": "bash -c '/dockerstartup/custom_startup.sh --go --url \"$KASM_URL\"'"
+    },
+    "assign": {
+      "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
+    }
+  },
+  "categories": [
+    "Network Management"
+  ],
+  "friendly_name": "TP-Link Omada",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 3030
+}

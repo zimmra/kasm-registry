@@ -1,0 +1,32 @@
+{
+  "description": "Movie Download Manager",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "radarr.png",
+  "name": "kasmweb/brave:1.14.0",
+  "run_config": {
+    "hostname": "kasm",
+    "environment": {
+      "LAUNCH_URL": "--app=https://radarr-imax.redacted.io"
+    }
+  },
+  "exec_config": {
+    "go": {
+      "cmd": "bash -c '/dockerstartup/custom_startup.sh --go --url \"$KASM_URL\"'"
+    },
+    "assign": {
+      "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
+    }
+  },
+  "categories": [
+    "Movie Downloader"
+  ],
+  "friendly_name": "Radarr (IMAX)",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 3030
+}
