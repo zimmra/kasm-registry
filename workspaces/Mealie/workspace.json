@@ -2,7 +2,7 @@
   "description": "Recipe Manager",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "mealie.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme13",
   "run_config": {
     "hostname": "kasm",
     "environment": {

@@ -2,7 +2,7 @@
   "description": "Downloads Index Manager",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "prowlarr.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme24",
   "run_config": {
     "hostname": "kasm",
     "environment": {

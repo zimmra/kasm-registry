@@ -2,7 +2,7 @@
   "description": "Phone Lookup Tool",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "phoneinfoga.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme22",
   "run_config": {
     "hostname": "kasm",
     "environment": {

@@ -2,7 +2,7 @@
   "description": "Clean interface for browsing, reading and downloading eBooks",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "calibre-web.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme3",
   "run_config": {
     "hostname": "kasm",
     "environment": {

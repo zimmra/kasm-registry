@@ -2,7 +2,7 @@
   "description": "Server Manager",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "webmin.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme45",
   "run_config": {
     "hostname": "kasm",
     "environment": {

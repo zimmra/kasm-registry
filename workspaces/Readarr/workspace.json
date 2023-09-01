@@ -2,7 +2,7 @@
   "description": "eBook Download Manager",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "readarr.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme31",
   "run_config": {
     "hostname": "kasm",
     "environment": {

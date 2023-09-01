@@ -2,7 +2,7 @@
   "description": "Omada SDN Controller",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "omada.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme15",
   "run_config": {
     "hostname": "kasm",
     "environment": {

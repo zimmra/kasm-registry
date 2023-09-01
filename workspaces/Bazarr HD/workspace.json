@@ -2,7 +2,7 @@
   "description": "Companion application to Sonarr and Radarr that manages and downloads subtitles based on your requirements.",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "bazarr.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme1",
   "run_config": {
     "hostname": "kasm",
     "environment": {

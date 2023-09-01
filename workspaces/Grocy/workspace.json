@@ -2,7 +2,7 @@
   "description": "ERP system for your kitchen",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "grocy.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme8",
   "run_config": {
     "hostname": "kasm",
     "environment": {

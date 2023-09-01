@@ -2,7 +2,7 @@
   "description": "Spotify Stat Tracker",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "yourspotify.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme46",
   "run_config": {
     "hostname": "kasm",
     "environment": {

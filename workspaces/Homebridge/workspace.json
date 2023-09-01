@@ -2,7 +2,7 @@
   "description": "Homekit Manager",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "homebridge.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme9",
   "run_config": {
     "hostname": "kasm",
     "environment": {

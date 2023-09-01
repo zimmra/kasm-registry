@@ -1,7 +1,7 @@
 {
   "description": "WebRTC Stream Manager",
   "docker_registry": "https://index.docker.io/v1/",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme7",
   "run_config": {
     "hostname": "kasm",
     "environment": {

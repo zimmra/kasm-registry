@@ -2,7 +2,7 @@
   "description": "ChatGPT Interface",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "chatgpt.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme4",
   "run_config": {
     "hostname": "kasm",
     "environment": {

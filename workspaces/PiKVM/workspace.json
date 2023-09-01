@@ -2,7 +2,7 @@
   "description": "Server KVM over IP",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "pikvm.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme23",
   "run_config": {
     "hostname": "kasm",
     "environment": {

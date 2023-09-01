@@ -2,7 +2,7 @@
   "description": "TV Channel Creator",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "ersatztv.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme6",
   "run_config": {
     "hostname": "kasm",
     "environment": {

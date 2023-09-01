@@ -2,7 +2,7 @@
   "description": "S.M.A.R.T. Status",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "scrutiny.png",
-  "name": "kasmweb/brave:1.14.0",
+  "name": "replaceme33",
   "run_config": {
     "hostname": "kasm",
     "environment": {
