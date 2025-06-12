@@ -21,7 +21,10 @@
     "amd64"
   ],
   "compatibility": [
-    "1.17.x"
-  ],
-  "uncompressed_size_mb": 2690
+    {
+      "version": "1.17.x",
+      "image": "pzubuntu593/docker-cursorai:latest",
+      "uncompressed_size_mb": 2690
+    }
+  ]
 }
