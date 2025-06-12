@@ -1,0 +1,27 @@
+{
+  "description": "AI Code Editor.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "cursor.png",
+  "name": "pzubuntu593/docker-cursorai:latest",
+  "run_config": {
+    "security_opt": [
+      "seccomp=unconfined"
+    ],
+    "entrypoint": [
+      "/kasminit"
+    ],
+    "user": 1000
+  },
+  "exec_config": {},
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Cursor",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.17.x"
+  ],
+  "uncompressed_size_mb": 2690
+}
